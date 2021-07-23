@@ -1,4 +1,4 @@
-# swift-CombinationsReducer
+# swift-CombinationsReduce
 
 <!-- PROJECT LOGO -->
 <br />
